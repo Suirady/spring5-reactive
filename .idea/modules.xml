@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springFramework5-reactive.iml" filepath="$PROJECT_DIR$/springFramework5-reactive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springFramework5-reactive_main.iml" filepath="$PROJECT_DIR$/.idea/modules/springFramework5-reactive_main.iml" group="springFramework5-reactive" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springFramework5-reactive_test.iml" filepath="$PROJECT_DIR$/.idea/modules/springFramework5-reactive_test.iml" group="springFramework5-reactive" />
+    </modules>
+  </component>
+</project>
